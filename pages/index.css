@@ -1,0 +1,23 @@
+@import url('../blocks/body/body.css');
+@import url('../blocks/body/__content/body__content.css');
+@import url('../blocks/body/__page/body__page.css');
+
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/header/__line/header__line.css');
+
+@import url('../blocks/profile/profile.css');
+@import url('../blocks/profile/__avatar/profile__avatar.css');
+@import url('../blocks/profile/__text/profile__text.css');
+@import url('../blocks/profile/__text1/profile__text1.css');
+@import url('../blocks/profile/__text2/profile__text2.css');
+@import url('../blocks/profile/__pine/profile__pine.css');
+@import url('../blocks/profile/__plus/profile__plus.css');
+
+@import url('../blocks/elements/elements.css');
+@import url('../blocks/elements/__img/elements__img.css');
+
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__text/footer__text.css');
+
+@import url('../blocks/');

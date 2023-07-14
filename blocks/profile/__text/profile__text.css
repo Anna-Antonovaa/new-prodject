@@ -1,0 +1,10 @@
+.profile__text{
+    padding-left: 30px;
+    max-width: 300px;
+    width: 100%;  
+    color: #FFFFFF;  
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
