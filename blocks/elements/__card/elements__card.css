@@ -1,0 +1,9 @@
+.elements__card {
+    width: 880px;
+    max-width: 100%;
+    border-radius: 10px;  
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 0;
+    margin: 0;
+}

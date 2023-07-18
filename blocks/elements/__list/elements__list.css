@@ -1,0 +1,13 @@
+.elements__list {
+    width: 282px;
+    background: #FFFFFF;
+    color: black;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 29px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 17px;
+}

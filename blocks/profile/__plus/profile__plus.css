@@ -1,4 +1,9 @@
 .profile__plus {
+    color: #FFFFFF;
     width: 150px;
-    padding-left: 29%;
+    height: 50px;
+    background: black;
+    border: 2px solid #FFFFFF;
+    position: absolute;
+    left: 75%;
 }
